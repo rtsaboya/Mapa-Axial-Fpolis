@@ -4,9 +4,11 @@
 Mapa axial da Área Conurbada de Florianópolis, incluindo São José, Palhoça, Biguaçu e Florianópolis. Considera barreiras aos veículos (vias com duas pistas, por exemplo, estão representadas por 2 linhas axiais linha axial).
 ##Créditos
 
-Mapas axiais de São José e Biguaçu elaborados por Lima (2010); mapas axiais de Palhoça e e Florianópolis elaborados pelo Grupo de Pesquisa Desenho Urbano e Paisagem (GDUP) - UFSC - 2013; 
+Mapas axiais de São José e Biguaçu elaborados por Lima (2010).
 
-Adaptação para veículos e complementação por GDUP e Associação dos Municípios da Grande Florianópolis - 2015.
+Mapas axiais de Palhoça e e Florianópolis elaborados pelo Grupo de Pesquisa Desenho Urbano e Paisagem (GDUP) - UFSC - 2013: Amanda Carvalho, Gabriel Vespucci, Timóteo Schroeder, Renato Saboya.
+
+Adaptação para veículos e complementação por GDUP e Associação dos Municípios da Grande Florianópolis - 2015: Bruna Kronenberger (GDUP), Bianca Coelho (GranFpolis).
 
 Revisão e correções (Florianópolis) por Renato T. de Saboya - 2015.
 
