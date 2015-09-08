@@ -1,5 +1,5 @@
 # Mapa Axial Fpolis
-Faça o download da pasta completa usando o link "Download ZIP" (ou correspondente em Português) à direita.
+Faça o download da pasta completa usando o link "Download ZIP" (ou correspondente em Português) à direita. → → → → → → → → → → → → → → → 
 ##Descrição Geral
 
 Mapa axial da Área Conurbada de Florianópolis, incluindo São José, Palhoça, Biguaçu e Florianópolis. Considera barreiras aos veículos (vias com duas pistas, por exemplo, estão representadas por 2 linhas axiais linha axial).
