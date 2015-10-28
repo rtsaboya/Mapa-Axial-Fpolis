@@ -28,3 +28,5 @@ LIMA, M. R. T. Mobilidade urbana em planos diretores: análise sintática da mal
 
 ## Changelog
 v.4.01 - Correções feitas a partir do plugin "Space Syntax Toolkit" para o Município de Florianópolis (Renato Saboya).
+v.4.02 - Correções feitas a partir do plugin "Space Syntax Toolkit" para os municípios de Palhoça, Biguaçu e São José(Bianca Coelho).
+v.4.03 - Pequenas correções feitas no mapa axial de Florianópolis - adequação às barreiras ao movimento de veículos e complementação de algumas linhas (ruas) que estavam faltando em Florianópolis.
