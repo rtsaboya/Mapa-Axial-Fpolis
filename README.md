@@ -5,11 +5,11 @@ Faça o download da pasta completa usando o link "Download ZIP" (ou corresponden
 Mapa axial da Área Conurbada de Florianópolis, incluindo São José, Palhoça, Biguaçu e Florianópolis. Considera barreiras aos veículos (vias com duas pistas, por exemplo, estão representadas por 2 linhas axiais linha axial).
 ##Créditos
 
-Mapas axiais de São José e Biguaçu elaborados por Lima (2010).
+**Mapas axiais de São José e Biguaçu** elaborados por Lima (2010).
 
-Mapas axiais de Palhoça e e Florianópolis elaborados pelo Grupo de Pesquisa Desenho Urbano e Paisagem (GDUP) - UFSC - 2013: Amanda Carvalho, Gabriel Vespucci, Timóteo Schroeder, Renato Saboya.
+**Mapas axiais de Palhoça e Florianópolis** elaborados pelo Grupo de Pesquisa Desenho Urbano e Paisagem (GDUP) - UFSC - 2013: Amanda Carvalho, Gabriel Vespucci, Timóteo Schroeder, Renato Saboya.
 
-Adaptação para veículos e complementação por GDUP e Associação dos Municípios da Grande Florianópolis - 2015: Bruna Kronenberger (GDUP), Bianca Coelho (GranFpolis).
+**Adaptação para veículos e complementação** por GDUP e Associação dos Municípios da Grande Florianópolis - 2015: Bruna Kronenberger (GDUP), Bianca Coelho (GranFpolis).
 
 Revisão e correções (Florianópolis) por Renato T. de Saboya - 2015.
 
@@ -28,5 +28,7 @@ LIMA, M. R. T. Mobilidade urbana em planos diretores: análise sintática da mal
 
 ## Changelog
 v.4.01 - Correções feitas a partir do plugin "Space Syntax Toolkit" para o Município de Florianópolis (Renato Saboya).
+
 v.4.02 - Correções feitas a partir do plugin "Space Syntax Toolkit" para os municípios de Palhoça, Biguaçu e São José(Bianca Coelho).
+
 v.4.03 - Pequenas correções feitas no mapa axial de Florianópolis - adequação às barreiras ao movimento de veículos e complementação de algumas linhas (ruas) que estavam faltando em Florianópolis.
