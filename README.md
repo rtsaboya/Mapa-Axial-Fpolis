@@ -1,10 +1,10 @@
 # Mapa Axial Fpolis
-Faça o download da pasta completa usando o link "Download ZIP" (ou correspondente em Português) à direita. → → → → → → → → → → → → → → → 
+Faça o download da pasta completa usando o link "Download ZIP" (ou correspondente em Português).
 ##Descrição Geral
 
 Mapa axial da Área Conurbada de Florianópolis, incluindo São José, Palhoça, Biguaçu e Florianópolis. Considera barreiras aos veículos (vias com duas pistas, por exemplo, estão representadas por 2 linhas axiais linha axial).
 
-É incluído também um shapefile com as duas medidas mais básicas (Integração e Escolha) calculadas para linhas axiais. Pode ser usada diretamente em um SIG para análises iniciais básicas. Análises mais aprofundadas precisam ser recalculadas usando o Depthmap ou a combinação QGIS + Plugin Space Syntaxe Toolkit + Depthmap XNet.
+Está incluído também um shapefile com as duas medidas mais básicas (Integração e Escolha) calculadas para linhas axiais. Pode ser usada diretamente em um SIG para análises iniciais básicas. Análises mais aprofundadas precisam ser recalculadas usando o Depthmap ou a combinação QGIS + Plugin Space Syntaxe Toolkit + Depthmap XNet.
 
 ##Créditos
 
@@ -30,7 +30,9 @@ SIRGAS2000 - UTM-22S
 LIMA, M. R. T. Mobilidade urbana em planos diretores: análise sintática da malha viária da área conurbada de Florianópolis. 2010. Dissertação (Mestrado em Arquitetura e Urbanismo) Universidade Federal de Santa Catarina, 2010. 
 
 ## Changelog
-v.4.05 - Pequena correção feita no posicionamento das linhas axiais para adequar-se melhor ao shapefile de lotes de Florianópolis na projeção Sirgas2000. Havia pontos em que as linhas penetravam as barreiras. Linhas axiais de dentro da UFSC, passando pelo estacionamento do CSE, foram removidas. Apesar de o mapa ser mais direcionado aos veículos, o calçadão da Felipe Schmidt foi reconvertido em linha axial pois não parecia uma representação adequada. Foi também incluído o dxf para os unlinks com traços, que pode ser usado no QGIS para indicar linhas que se cruzam no desenho mas não possuem conexão na realidade (por exemplo, viadutos).
+v.4.05 - Pequena correção feita no posicionamento das linhas axiais para adequar-se melhor ao shapefile de lotes de Florianópolis na projeção Sirgas2000. Havia pontos em que as linhas penetravam as barreiras. Linhas axiais de dentro da UFSC, passando pelo estacionamento do CSE, foram removidas. Foi também incluído o shapefile para os unlinks com traços, que pode ser usado no QGIS para indicar linhas que se cruzam no desenho mas não possuem conexão na realidade (por exemplo, viadutos).
+
+v.4.04 - Apesar de o mapa ser mais direcionado aos veículos, o calçadão da Felipe Schmidt foi reconvertido em linha axial pois não parecia uma representação adequada.
 
 v.4.03 - Pequenas correções feitas no mapa axial de Florianópolis - adequação às barreiras ao movimento de veículos e complementação de algumas linhas (ruas) que estavam faltando em Florianópolis.
 
