@@ -1,6 +1,9 @@
 ## Criação dos unlinks
 Os unlinks são indicações para o Depthmap sobre quais intersecções não devem ser consideradas. No caso de um viaduto, por exemplo, é interessante indicar que a linha axial de baixo não é conectada com a linha que passa por cima.
 
+É possível utilizá-los tanto no Depthmap, diretamente, quanto no QGIS, caso você esteja usando este programa para calcular as medidas sintáticas.
+
+## Depthmap
 No Depthmap isso pode ser criado manualmente usando o botão unlink ou, nos casos mais complexos, eles podem ser criados a partir de um arquivo de texto contendo as coordenadas de cada intersecção a ser ignorada. Esse arquivo texto pode ser baixado nesta página, e os procedimentos a serem seguidos são:
 
 1. No Depthmap, criar um novo arquivo;
@@ -11,3 +14,6 @@ No Depthmap isso pode ser criado manualmente usando o botão unlink ou, nos caso
 1. Tools > /Axial ... > Convert Data Map Points to Unlinks;
 1. Selecionar o nome do arquivo de unlinks na caixa de diálogo;
 1. Ao final, checar através do número de conectividade das linhas envolvidas se a conexão com a linha de cima foi realmente removida.
+
+## QGIS
+No QGIS, use o shapefile contido em `unlinks_v_4_05_tracos.zip`. Na caixa de diálogo do plugin Space Syntax Toolkit, Graph Análysis, vá à aba "Unlinks" e selecione o shapefile acima. 

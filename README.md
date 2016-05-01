@@ -11,7 +11,7 @@ Mapa axial da Área Conurbada de Florianópolis, incluindo São José, Palhoça,
 
 **Adaptação para veículos e complementação** por GDUP e Associação dos Municípios da Grande Florianópolis - 2015: Bruna Kronenberger (GDUP), Bianca Coelho (GranFpolis).
 
-Revisão e correções (Florianópolis) por Renato T. de Saboya - 2015.
+Revisão e correções (Florianópolis) por Renato T. de Saboya - 2015-2016.
 
 ##Base cartográfica
 
@@ -27,8 +27,10 @@ SIRGAS2000 - UTM-22S
 LIMA, M. R. T. Mobilidade urbana em planos diretores: análise sintática da malha viária da área conurbada de Florianópolis. 2010. Dissertação (Mestrado em Arquitetura e Urbanismo) Universidade Federal de Santa Catarina, 2010. 
 
 ## Changelog
-v.4.01 - Correções feitas a partir do plugin "Space Syntax Toolkit" para o Município de Florianópolis (Renato Saboya).
+v.4.05 - Pequena correção feita no posicionamento das linhas axiais para adequar-se melhor ao shapefile de lotes de Florianópolis na projeção Sirgas2000. Havia pontos em que as linhas penetravam as barreiras. Linhas axiais de dentro da UFSC, passando pelo estacionamento do CSE, foram removidas. Apesar de o mapa ser mais direcionado aos veículos, o calçadão da Felipe Schmidt foi reconvertido em linha axial pois não parecia uma representação adequada. Foi também incluído o dxf para os unlinks com traços, que pode ser usado no QGIS para indicar linhas que se cruzam no desenho mas não possuem conexão na realidade (por exemplo, viadutos).
+
+v.4.03 - Pequenas correções feitas no mapa axial de Florianópolis - adequação às barreiras ao movimento de veículos e complementação de algumas linhas (ruas) que estavam faltando em Florianópolis.
 
 v.4.02 - Correções feitas a partir do plugin "Space Syntax Toolkit" para os municípios de Palhoça, Biguaçu e São José(Bianca Coelho).
 
-v.4.03 - Pequenas correções feitas no mapa axial de Florianópolis - adequação às barreiras ao movimento de veículos e complementação de algumas linhas (ruas) que estavam faltando em Florianópolis.
+v.4.01 - Correções feitas a partir do plugin "Space Syntax Toolkit" para o Município de Florianópolis (Renato Saboya).
