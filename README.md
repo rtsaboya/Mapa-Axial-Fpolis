@@ -3,6 +3,9 @@ Faça o download da pasta completa usando o link "Download ZIP" (ou corresponden
 ##Descrição Geral
 
 Mapa axial da Área Conurbada de Florianópolis, incluindo São José, Palhoça, Biguaçu e Florianópolis. Considera barreiras aos veículos (vias com duas pistas, por exemplo, estão representadas por 2 linhas axiais linha axial).
+
+É incluído também um shapefile com as duas medidas mais básicas (Integração e Escolha) calculadas para linhas axiais. Pode ser usada diretamente em um SIG para análises iniciais básicas. Análises mais aprofundadas precisam ser recalculadas usando o Depthmap ou a combinação QGIS + Plugin Space Syntaxe Toolkit + Depthmap XNet.
+
 ##Créditos
 
 **Mapas axiais de São José e Biguaçu** elaborados por Lima (2010).
