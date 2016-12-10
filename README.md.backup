@@ -37,7 +37,7 @@ SIRGAS2000 - UTM-22S
 Medidas em metros.
 
 ### Erros
-A verificação feita pelo plugin Space Syntax Toolkit aponta 30 erros que, na verdade, são falsos positivos. As linhas chegam muito perto umas das outras mas não devem ser conectadas. Esses problemas podem ser ignorados.
+A verificação feita pelo plugin Space Syntax Toolkit aponta 30 erros que, na verdade, são falsos positivos. As linhas chegam muito perto umas das outras mas não devem ser conectados. Esses problemas podem ser ignorados.
 
 ## Changelog
 v.4.07 - Corrigido um pequeno erro que criava uma "ilha" de três linhas isoladas do resto do sistema (01/12/2016)
