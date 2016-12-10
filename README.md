@@ -29,6 +29,8 @@ SIRGAS2000 - UTM-22S
 Medidas em metros.
 
 ## Changelog
+v.4.07 - Corrigido um pequeno erro que criava uma "ilha" de três linhas isoladas do resto do sistema (01/12/2016)
+
 v.4.06 - Pequenas adições de linhas axiais feitas no Sambaqui. Uma via relativamente contínua estava desconectada. Seis novas linhas foram criadas. (08/05/2016)
 
 v.4.05 - Pequena correção feita no posicionamento das linhas axiais para adequar-se melhor ao shapefile de lotes de Florianópolis na projeção Sirgas2000. Havia pontos em que as linhas penetravam as barreiras. Linhas axiais de dentro da UFSC, passando pelo estacionamento do CSE, foram removidas. Foi também incluído o shapefile para os unlinks com traços, que pode ser usado no QGIS para indicar linhas que se cruzam no desenho mas não possuem conexão na realidade (por exemplo, viadutos).
